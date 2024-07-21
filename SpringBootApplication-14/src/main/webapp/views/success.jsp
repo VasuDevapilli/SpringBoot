@@ -1,0 +1,1 @@
+<h2 style="color:greenyellow">User Successfully inserted</h2>
